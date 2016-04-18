@@ -1,0 +1,16 @@
+#body{background-color:#deb887} 
+body{background-color:#b0c4de} 
+#body{background-color:#db7093} 
+
+#p{color:red;}
+p{font-size:large;}
+
+*{margin:5; padding:3;}
+
+table{border-spacing: 0.1px;}
+
+.parent{overflow:hidden;
+	float:left;}
+
+.rireki{float:right;
+	 width:128px;}
